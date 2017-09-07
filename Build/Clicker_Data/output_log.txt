@@ -1,0 +1,79 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K620 (ID=0x13bb)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   21.21.13.6939
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Programmation\unity\Clicker\Build\Clicker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Programmation\unity\Clicker\Build\Clicker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Programmation\unity\Clicker\Build\Clicker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Programmation\unity\Clicker\Build\Clicker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Programmation\unity\Clicker\Build\Clicker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Programmation\unity\Clicker\Build\Clicker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Programmation\unity\Clicker\Build\Clicker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Programmation\unity\Clicker\Build\Clicker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.098 seconds
+Platform assembly: F:\Programmation\unity\Clicker\Build\Clicker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Programmation\unity\Clicker\Build\Clicker_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.621070 ms
+640 x 480 @ 60Hz , 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+720 x 480 @ 60Hz , 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+720 x 576 @ 60Hz , 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+800 x 600 @ 60Hz , 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1024 x 768 @ 60Hz , 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1152 x 864 @ 75Hz , 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1280 x 768 @ 60Hz , 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1280 x 800 @ 60Hz , 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1280 x 1024 @ 60Hz , 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3f40 -> priority: 1 
+  Thread -> id: 294c -> priority: 1 
+  Thread -> id: 1598 -> priority: 1 
+  Thread -> id: 3d4 -> priority: 1 
